@@ -28,7 +28,7 @@ twitter_username: graceshen
 github_username:  graceleshishen
 
 # Build settings
-theme: minima
+theme: merlot
 plugins:
   - jekyll-feed
 
