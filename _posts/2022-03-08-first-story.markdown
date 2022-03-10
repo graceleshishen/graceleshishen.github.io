@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Play Time with Becki (2)"
+title:  "Janice (2)"
 date:   2022-03-08 18:04:33 -0800
 categories: stories
 ---
+
+### Play with Becki
+
 “Well, for sure,” said Mom. “There is a few chocolate coated spoon that you two can lick.”
 
 Janice and Becki slide into their aprons. Janice’s apron has a small vine with some purple flowers. Becki’s has a girl sitting on the moon. 
