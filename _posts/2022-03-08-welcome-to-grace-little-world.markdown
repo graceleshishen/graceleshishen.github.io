@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Grace Little World!"
-date:   2022-03-08 17:04:33 -0800
-categories: welcome
+title:  "Create-a-Strip"
+date:   2022-03-10 17:04:33 -0800
+categories: Arts
 ---
-Welcome to Grace Little World!
+![church-comic-1](/assets/images/arts/church-comic-1.jpg)
